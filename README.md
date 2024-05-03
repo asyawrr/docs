@@ -10,6 +10,6 @@
 
 По ссылке ниже находится ссылка на QASE с примером тестового набора на проверку функционала Регистрации, Авторизации и Каталога Продукта.
 
-[Тест-кейсы](https://app.qase.io/project/G7?author=199&previewMode=side&suite=44&tab=&view=1)
-[Тест-кейсы из QASE в формате PDF](https://github.com/asyawrr/docs/files/15203698/G7-2024-05-03.pdf)
+[Тест-кейсы](https://app.qase.io/project/G7?author=199&previewMode=side&suite=44&tab=&view=1) <br>
+[Тест-кейсы из QASE в формате PDF](https://github.com/asyawrr/docs/files/15203698/G7-2024-05-03.pdf) <br>
 [Ссылка на Google Drive с вложениями к тест-кейсам](https://drive.google.com/drive/folders/1iClsH4NgzMveseVZcXdYnb2WAJn95Sm0?usp=sharing)
