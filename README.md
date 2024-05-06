@@ -18,6 +18,6 @@
 
 По ссылкам ниже находятся документы связанные с созданием баг-репортов после проверки функционала Регистрации, Авторизации и Каталога продукта.
 
-[Отчеты о дефекте из youtrack в формате xlsx](https://github.com/asyawrr/docs/files/15214180/bug-reports_youtrack.xlsx) <br>
+[Отчеты о дефекте из youtrack в формате xlsx](https://github.com/asyawrr/docs/files/15217630/bug-reports_youtrack.xlsx) <br>
 [Test-run Registration&Authorization](https://github.com/asyawrr/docs/files/15214182/G7-Test%2Brun%2B2024_05_05%2BRegistration%2B.%2BAuthorization.pdf) <br>
 [Test-run Product Catalog](https://github.com/asyawrr/docs/files/15214183/G7-Test%2Brun%2B2024_05_05.Product.Catalog.pdf) <br>
